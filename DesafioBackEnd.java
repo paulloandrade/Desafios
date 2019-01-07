@@ -16,6 +16,6 @@ public class DesafioBackEnd {
             }
         }
 
-         System.out.printf("Total de combinações: %d ",resposta);
+         System.out.printf("Total de combinações teste: %d ",resposta);
     }
 }
